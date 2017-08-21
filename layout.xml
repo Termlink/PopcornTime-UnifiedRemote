@@ -79,7 +79,7 @@
 
 					<!-- Playback Controls -->
 					<row weight="1">
-						<button icon="playpause" />
+						<button icon="playpause" ontap="select" />
 						<button icon="rwd" ontap="skipbackward" />
 						<button icon="ff" ontap="skipforward" />
 						<button id="skiptime" text="10s" ontap="skiptimetoggle" />
