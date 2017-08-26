@@ -1,5 +1,5 @@
 # PopcornTime Remote 
-Original project hasn't been updated in years so I decided to fix it, doesn't use the API as its too stable.
+Original project hasn't been updated in years so I decided to fix it, this doesn't use the API as its not very stable.
 
 A simple keyboard mapped remote for [PopcornTime](https://popcorntime.sh)
 
